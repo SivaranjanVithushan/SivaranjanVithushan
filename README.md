@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SivaranjanVithushan
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Flutter and Android Development
+- 👀 I’m interested in Machine Learing 
+- 🌱 I’m currently learning 
 - 📫 How to reach me sivaranjanvithushan@gmail.com
 
 <!---
