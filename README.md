@@ -10,7 +10,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=SivaranjanVithushan&&show_icons=true&title_color=blue&icon_color=bb2acf&text_color=black&bg_color=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjanVithushan&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjanVithushan&layout=compact)
 <!---
 SivaranjanVithushan/SivaranjanVithushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
