@@ -8,7 +8,7 @@
 - 📫 How to reach me: Email - sivaranjanvithushan@gmail.com
 - 😊 Pronouns: He/His
 
-<img src="https://github-readme-stats.vercel.app/api?username=SivaranjanVithushan&&show_icons=true&title_color=blue&icon_color=bb2acf&text_color=black&bg_color=white&&locale=pt-br">
+<img src="https://github-readme-stats.vercel.app/api?username=SivaranjanVithushan&&show_icons=true&title_color=blue&icon_color=bb2acf&text_color=black&bg_color=white&&locale=pt-br&&custom_title=Vithu%20shan%27s%20GitHub%20Stats">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SivaranjanVithushan&layout=compact)
 <!---
